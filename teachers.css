@@ -71,6 +71,17 @@ nav.menu a:active{
     backdrop-filter:blur(2px);
 }
 
+#icons {
+    position: fixed;
+}
+
+#icons a#home {
+    margin: 10px;
+    padding: 30px;
+    border: solid rgb(255, 255, 255);
+}
+
+
 p#see{
     font-size: 100px;
 }
